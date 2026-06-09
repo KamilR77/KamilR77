@@ -8,7 +8,7 @@
 
 🗄️ Currently learning SQL
 
-🐍 Learning Python for Data Analysis
+🐍 Learning Python & Pandas for Data Analysis
 
 📈 Developing Excel skills
 
