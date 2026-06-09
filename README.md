@@ -2,7 +2,7 @@
 
 🎓 Applied Computer Science Student - Uniwersytet DSW Ideis Kraków
 
-💼 IT Administrator at Frozen Way S.A.
+💼 IT Support Administrator & Office Manager at Frozen Way S.A.
 
 📊 Interested in Data Analytics and Business Intelligence
 
